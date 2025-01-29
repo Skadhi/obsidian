@@ -62,3 +62,12 @@
 	14. Basic Database Connectivity (JDBC)
 		1. Connecting Java with Databases (MySQL, PostgreSQL)
 		2. JDBC Drivers and Statements (`Statement`, `PreparedStatement`)
+2. SQL (UNDER CONSTRUCTION)
+3. Spring (UNDER CONSTRUCTION)
+	1. Spring Core
+	2. Spring Web
+	3. Spring JPA
+	4. Spring JDBC
+	5. Spring Security
+	6. Spring AOP
+4. Hibernate (UNDER CONSTRUCTION)
